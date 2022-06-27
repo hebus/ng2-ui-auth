@@ -28,13 +28,6 @@
             "tsConfig": "projects/ng2-ui-auth/tsconfig.spec.json",
             "karmaConfig": "projects/ng2-ui-auth/karma.conf.js"
           }
-        },
-        "lint": {
-          "builder": "@angular-devkit/build-angular:tslint",
-          "options": {
-            "tsConfig": ["projects/ng2-ui-auth/tsconfig.lib.json", "projects/ng2-ui-auth/tsconfig.spec.json"],
-            "exclude": ["**/node_modules/**"]
-          }
         }
       }
     }
