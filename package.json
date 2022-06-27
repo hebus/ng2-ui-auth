@@ -10,11 +10,8 @@
     "e2e": "ng e2e"
   },
   "main": "dist/ng2-ui-auth/bundles/ng2-ui-auth.umd.js",
-  "module": "dist/ng2-ui-auth/fesm5/ng2-ui-auth.js",
   "es2015": "dist/ng2-ui-auth/fesm2015/ng2-ui-auth.js",
-  "esm5": "dist/ng2-ui-auth/esm5/ng2-ui-auth.js",
   "esm2015": "dist/ng2-ui-auth/esm2015/ng2-ui-auth.js",
-  "fesm5": "dist/ng2-ui-auth/fesm5/ng2-ui-auth.js",
   "fesm2015": "dist/ng2-ui-auth/fesm2015/ng2-ui-auth.js",
   "typings": "dist/ng2-ui-auth/ng2-ui-auth.d.ts",
   "metadata": "dist/ng2-ui-auth/ng2-ui-auth.metadata.json",
@@ -55,7 +52,7 @@
     "ts-node": "^8.3.0",
     "tsickle": "^0.38.1",
     "tslint": "~5.11.0",
-    "typescript": "^3.8.3",
+    "typescript": "^3.9.10",
     "zone.js": "^0.10.3"
   }
 }
